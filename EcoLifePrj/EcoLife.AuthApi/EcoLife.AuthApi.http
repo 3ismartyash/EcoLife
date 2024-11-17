@@ -1,0 +1,6 @@
+@EcoLife.AuthApi_HostAddress = http://localhost:5262
+
+GET {{EcoLife.AuthApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
